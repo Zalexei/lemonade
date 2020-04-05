@@ -1,0 +1,9007 @@
+{
+	"version": 24,
+	"artboards": [
+		{
+			"name": "Artboard",
+			"translation": [
+				0,
+				0
+			],
+			"width": 1080,
+			"height": 1920,
+			"origin": [
+				0,
+				0
+			],
+			"clipContents": true,
+			"color": [
+				0.8904761672019958,
+				0.8904761672019958,
+				0.8904761672019958,
+				1
+			],
+			"nodes": [
+				{
+					"name": "Lemonade",
+					"translation": [
+						282.1415100097656,
+						595.862060546875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "Node",
+					"parent": 0,
+					"isActive": true,
+					"source": 10,
+					"maskType": 1,
+					"type": "mask"
+				},
+				{
+					"name": "Lemonade Layer",
+					"parent": 0,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": false,
+					"blendMode": 3,
+					"drawOrder": 23,
+					"type": "effectRenderer"
+				},
+				{
+					"name": "Background",
+					"translation": [
+						540.9393310546875,
+						952.23486328125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 1,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 3,
+					"opacity": 1,
+					"color": [
+						0.800000011920929,
+						0.800000011920929,
+						0.800000011920929,
+						1
+					],
+					"width": 1,
+					"cap": 0,
+					"join": 0,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "Color",
+					"parent": 3,
+					"opacity": 1,
+					"color": [
+						0.9714285731315613,
+						0,
+						0.6702857613563538,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Rectangle Path",
+					"parent": 3,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 1143,
+					"height": 1992,
+					"cornerRadius": 114,
+					"type": "rectangle"
+				},
+				{
+					"name": "Wave2",
+					"translation": [
+						-194.277099609375,
+						2172.466796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 0.6499999999999998,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 17,
+					"drawOrder": 4,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Path",
+					"parent": 7,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 1,
+							"translation": [
+								0,
+								0
+							],
+							"in": [
+								-533.3333740234375,
+								-113.33331298828125
+							],
+							"out": [
+								533.3333740234375,
+								113.33331298828125
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								860,
+								-186.66668701171875
+							],
+							"in": [
+								606.666748046875,
+								-213.3333740234375
+							],
+							"out": [
+								1113.333251953125,
+								-160
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								1326.6666259765625,
+								6.66668701171875
+							],
+							"in": [
+								1146.6666259765625,
+								13.3333740234375
+							],
+							"out": [
+								1506.6666259765625,
+								0
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								1926.6666259765625,
+								-133.33331298828125
+							],
+							"in": [
+								1740,
+								-146.6666259765625
+							],
+							"out": [
+								2113.333251953125,
+								-120
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								2440,
+								106.66668701171875
+							],
+							"in": [
+								2200.000244140625,
+								133.33343505859375
+							],
+							"out": [
+								2679.999755859375,
+								79.99993896484375
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								3226.66650390625,
+								-226.66668701171875
+							],
+							"in": [
+								2946.66650390625,
+								-220.00006103515625
+							],
+							"out": [
+								3506.66650390625,
+								-233.33331298828125
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								3926.66650390625,
+								79.99993896484375
+							],
+							"in": [
+								3686.666015625,
+								79.99993896484375
+							],
+							"out": [
+								4166.6669921875,
+								79.99993896484375
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								4340,
+								-40
+							],
+							"in": [
+								4120.0009765625,
+								-46.66668701171875
+							],
+							"out": [
+								4559.9990234375,
+								-33.33331298828125
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								4506.66650390625,
+								3433.33544921875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-179.999755859375,
+								3386.67333984375
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Color",
+					"parent": 7,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"fillRule": 0,
+					"type": "colorFill"
+				},
+				{
+					"name": "Wave1",
+					"translation": [
+						-194.95953369140625,
+						2182.494384765625
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 5,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Path",
+					"parent": 10,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 1,
+							"translation": [
+								0,
+								0
+							],
+							"in": [
+								-533.3333740234375,
+								-113.33331298828125
+							],
+							"out": [
+								533.3333740234375,
+								113.33331298828125
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								860,
+								-186.66668701171875
+							],
+							"in": [
+								606.666748046875,
+								-213.3333740234375
+							],
+							"out": [
+								1113.333251953125,
+								-160
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								1326.6666259765625,
+								6.66668701171875
+							],
+							"in": [
+								1146.6666259765625,
+								13.3333740234375
+							],
+							"out": [
+								1506.6666259765625,
+								0
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								1926.6666259765625,
+								-133.33331298828125
+							],
+							"in": [
+								1740,
+								-146.6666259765625
+							],
+							"out": [
+								2113.333251953125,
+								-120
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								2440,
+								106.66668701171875
+							],
+							"in": [
+								2200.000244140625,
+								133.33343505859375
+							],
+							"out": [
+								2679.999755859375,
+								79.99993896484375
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								3226.66650390625,
+								-226.66668701171875
+							],
+							"in": [
+								2946.66650390625,
+								-220.00006103515625
+							],
+							"out": [
+								3506.66650390625,
+								-233.33331298828125
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								3926.66650390625,
+								79.99993896484375
+							],
+							"in": [
+								3686.666015625,
+								79.99993896484375
+							],
+							"out": [
+								4166.6669921875,
+								79.99993896484375
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								4340,
+								-40
+							],
+							"in": [
+								4120.0009765625,
+								-46.66668701171875
+							],
+							"out": [
+								4559.9990234375,
+								-33.33331298828125
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								4506.66650390625,
+								3433.33544921875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-179.999755859375,
+								3386.67333984375
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Color",
+					"parent": 10,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"fillRule": 0,
+					"type": "colorFill"
+				},
+				{
+					"name": "Title overlap",
+					"translation": [
+						-418.4506530761719,
+						815.0281982421875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [
+						{
+							"node": 40,
+							"intersect": true
+						}
+					],
+					"isVisible": true,
+					"blendMode": 5,
+					"drawOrder": 6,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Ellipse Path",
+					"parent": 13,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 1100,
+					"height": 880,
+					"type": "ellipse"
+				},
+				{
+					"name": "Color",
+					"parent": 13,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Lemonade2",
+					"translation": [
+						282.1415100097656,
+						595.862060546875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "Node",
+					"parent": 16,
+					"isActive": true,
+					"source": 10,
+					"maskType": 0,
+					"type": "mask"
+				},
+				{
+					"name": "Lemonade2 Layer",
+					"parent": 16,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": false,
+					"blendMode": 3,
+					"drawOrder": 21,
+					"type": "effectRenderer"
+				},
+				{
+					"name": "PbContainer",
+					"translation": [
+						557.5,
+						1107
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 0,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 9,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 19,
+					"opacity": 0.7800000000000002,
+					"color": [
+						1,
+						0,
+						0.869999885559082,
+						1
+					],
+					"width": 4.600000000000002,
+					"cap": 0,
+					"join": 0,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "Rectangle Path",
+					"parent": 19,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 250,
+					"height": 42,
+					"cornerRadius": 44,
+					"type": "rectangle"
+				},
+				{
+					"name": "PbBar",
+					"translation": [
+						457.19354248046875,
+						1107.0001220703125
+					],
+					"rotation": 0,
+					"scale": [
+						0.4950000047683716,
+						0.5260000228881836
+					],
+					"opacity": 0,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 10,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 22,
+					"opacity": 1,
+					"color": [
+						0.800000011920929,
+						0.800000011920929,
+						0.800000011920929,
+						1
+					],
+					"width": 1,
+					"cap": 0,
+					"join": 0,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "Color",
+					"parent": 22,
+					"opacity": 1,
+					"color": [
+						1,
+						0,
+						0.869999885559082,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Rectangle Path",
+					"parent": 22,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								-40,
+								-33.5
+							],
+							"radius": 33.5
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								40,
+								-33.5
+							],
+							"radius": 33.5
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								40,
+								33.5
+							],
+							"radius": 33.5
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-40,
+								33.5
+							],
+							"radius": 33.5
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "lemonade",
+					"translation": [
+						264.0486145019531,
+						1050.6339111328125
+					],
+					"rotation": 0,
+					"scale": [
+						0.699999988079071,
+						0.699999988079071
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "TitleSecond",
+					"parent": 26,
+					"translation": [
+						444.552490234375,
+						-290.41815185546875
+					],
+					"rotation": 0,
+					"scale": [
+						0.07999999821186066,
+						-0.07999999821186066
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 11,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 27,
+					"opacity": 1,
+					"color": [
+						0,
+						0,
+						0,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						-636.611328125,
+						397.0555419921875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-4274,
+								1215.5
+							],
+							"in": [
+								-4274,
+								1215.5
+							],
+							"out": [
+								-4553,
+								1185.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4814,
+								652.5
+							],
+							"in": [
+								-4777,
+								952.5
+							],
+							"out": [
+								-4825,
+								564.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4794,
+								91.5
+							],
+							"in": [
+								-4814,
+								261.5
+							],
+							"out": [
+								-4773,
+								-85.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4773,
+								-497.5
+							],
+							"in": [
+								-4762,
+								-406.5
+							],
+							"out": [
+								-4779,
+								-546.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-4787,
+								-589.5
+							],
+							"in": [
+								-4785,
+								-587.5
+							],
+							"out": [
+								-4789,
+								-591.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4879,
+								-562.5
+							],
+							"in": [
+								-4830,
+								-579.5
+							],
+							"out": [
+								-5019,
+								-515.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5238,
+								-511.5
+							],
+							"in": [
+								-5142,
+								-497.5
+							],
+							"out": [
+								-5385,
+								-533.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5580,
+								-735.5
+							],
+							"in": [
+								-5515,
+								-618.5
+							],
+							"out": [
+								-5606,
+								-783.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-5609,
+								-878.5
+							],
+							"in": [
+								-5609,
+								-797.5
+							],
+							"out": [
+								-5609,
+								-984.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5524,
+								-1094.5
+							],
+							"in": [
+								-5593,
+								-1024.5
+							],
+							"out": [
+								-5442,
+								-1176.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5165,
+								-1215.5
+							],
+							"in": [
+								-5324,
+								-1216.5
+							],
+							"out": [
+								-4983,
+								-1214.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4686,
+								-1038.5
+							],
+							"in": [
+								-4811,
+								-1151.5
+							],
+							"out": [
+								-4659,
+								-1013.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-4630,
+								-993.5
+							],
+							"in": [
+								-4633,
+								-993.5
+							],
+							"out": [
+								-4627,
+								-993.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4552,
+								-1040.5
+							],
+							"in": [
+								-4592,
+								-1014.5
+							],
+							"out": [
+								-4447,
+								-1106.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4234,
+								-1203.5
+							],
+							"in": [
+								-4286,
+								-1189.5
+							],
+							"out": [
+								-4025,
+								-1259.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3669,
+								-1070.5
+							],
+							"in": [
+								-3856,
+								-1219.5
+							],
+							"out": [
+								-3669,
+								-1070.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-3588,
+								-1006.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3551,
+								-1038.5
+							],
+							"in": [
+								-3551,
+								-1038.5
+							],
+							"out": [
+								-3397,
+								-1171.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2889,
+								-1091.5
+							],
+							"in": [
+								-3098,
+								-1195.5
+							],
+							"out": [
+								-2867,
+								-1080.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2801,
+								-1037.5
+							],
+							"in": [
+								-2828,
+								-1055.5
+							],
+							"out": [
+								-2775,
+								-1018.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-2749,
+								-1003.5
+							],
+							"in": [
+								-2752,
+								-1003.5
+							],
+							"out": [
+								-2746,
+								-1003.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-2744,
+								-1028.5
+							],
+							"in": [
+								-2744,
+								-1014.5
+							],
+							"out": [
+								-2744,
+								-1126.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2555,
+								-1159.5
+							],
+							"in": [
+								-2636,
+								-1200.5
+							],
+							"out": [
+								-2502,
+								-1131.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2454,
+								-878.5
+							],
+							"in": [
+								-2477,
+								-1060.5
+							],
+							"out": [
+								-2433,
+								-719.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2333,
+								-483.5
+							],
+							"in": [
+								-2402,
+								-614.5
+							],
+							"out": [
+								-2248,
+								-319.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2059,
+								-207.5
+							],
+							"in": [
+								-2124,
+								-194.5
+							],
+							"out": [
+								-2005,
+								-218.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-2001,
+								-350.5
+							],
+							"in": [
+								-1999,
+								-233.5
+							],
+							"out": [
+								-2002,
+								-409.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2018,
+								-557.5
+							],
+							"in": [
+								-2010,
+								-502.5
+							],
+							"out": [
+								-2042,
+								-723.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2045,
+								-848.5
+							],
+							"in": [
+								-2044,
+								-744.5
+							],
+							"out": [
+								-2047,
+								-1009.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1911,
+								-1051.5
+							],
+							"in": [
+								-2013,
+								-1060.5
+							],
+							"out": [
+								-1798,
+								-1042.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1754,
+								-872.5
+							],
+							"in": [
+								-1766,
+								-1005.5
+							],
+							"out": [
+								-1727,
+								-572.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1429,
+								-223.5
+							],
+							"in": [
+								-1516,
+								-151.5
+							],
+							"out": [
+								-1406,
+								-242.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1440,
+								-515.5
+							],
+							"in": [
+								-1410,
+								-340.5
+							],
+							"out": [
+								-1472,
+								-705.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1437,
+								-944.5
+							],
+							"in": [
+								-1471,
+								-869.5
+							],
+							"out": [
+								-1407,
+								-1010.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1286,
+								-1100.5
+							],
+							"in": [
+								-1351,
+								-1068.5
+							],
+							"out": [
+								-1235,
+								-1125.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-1124,
+								-1128.5
+							],
+							"in": [
+								-1219,
+								-1128.5
+							],
+							"out": [
+								-1025,
+								-1128.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-953,
+								-1096.5
+							],
+							"in": [
+								-1014,
+								-1126.5
+							],
+							"out": [
+								-917,
+								-1078.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-840,
+								-1022.5
+							],
+							"in": [
+								-866,
+								-1045.5
+							],
+							"out": [
+								-840,
+								-1022.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-793,
+								-981.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-745,
+								-1026.5
+							],
+							"in": [
+								-745,
+								-1026.5
+							],
+							"out": [
+								-658,
+								-1108.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-404,
+								-1146.5
+							],
+							"in": [
+								-549,
+								-1146.5
+							],
+							"out": [
+								-308,
+								-1145.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-154,
+								-1069.5
+							],
+							"in": [
+								-231,
+								-1122.5
+							],
+							"out": [
+								-154,
+								-1069.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-109,
+								-1038.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								41,
+								-1037.5
+							],
+							"in": [
+								41,
+								-1037.5
+							],
+							"out": [
+								210,
+								-1037.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								346,
+								-969.5
+							],
+							"in": [
+								255,
+								-1026.5
+							],
+							"out": [
+								346,
+								-969.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								401,
+								-934.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								406,
+								-976.5
+							],
+							"in": [
+								406,
+								-976.5
+							],
+							"out": [
+								419,
+								-1070.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								554,
+								-1121.5
+							],
+							"in": [
+								464,
+								-1114.5
+							],
+							"out": [
+								605,
+								-1125.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								642,
+								-1100.5
+							],
+							"in": [
+								616,
+								-1122.5
+							],
+							"out": [
+								675,
+								-1072.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								751,
+								-878.5
+							],
+							"in": [
+								680,
+								-1061.5
+							],
+							"out": [
+								777,
+								-812.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								871,
+								-608.5
+							],
+							"in": [
+								831,
+								-690.5
+							],
+							"out": [
+								1000,
+								-342.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								1189,
+								-215.5
+							],
+							"in": [
+								1112,
+								-204.5
+							],
+							"out": [
+								1224,
+								-220.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1185,
+								-487.5
+							],
+							"in": [
+								1223,
+								-298.5
+							],
+							"out": [
+								1158,
+								-617.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1152,
+								-778.5
+							],
+							"in": [
+								1152,
+								-673.5
+							],
+							"out": [
+								1151,
+								-905.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1182,
+								-963.5
+							],
+							"in": [
+								1152,
+								-909.5
+							],
+							"out": [
+								1218,
+								-1028.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1353,
+								-1104.5
+							],
+							"in": [
+								1273,
+								-1072.5
+							],
+							"out": [
+								1400,
+								-1123.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1521,
+								-1127.5
+							],
+							"in": [
+								1431,
+								-1127.5
+							],
+							"out": [
+								1624,
+								-1128.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1696,
+								-1097.5
+							],
+							"in": [
+								1635,
+								-1126.5
+							],
+							"out": [
+								1732,
+								-1080.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1805,
+								-1030.5
+							],
+							"in": [
+								1781,
+								-1050.5
+							],
+							"out": [
+								1805,
+								-1030.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								1850,
+								-994.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1888,
+								-1038.5
+							],
+							"in": [
+								1888,
+								-1038.5
+							],
+							"out": [
+								1909,
+								-1062.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1984,
+								-1110.5
+							],
+							"in": [
+								1952,
+								-1094.5
+							],
+							"out": [
+								2032,
+								-1133.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								2121,
+								-1138.5
+							],
+							"in": [
+								2054,
+								-1138.5
+							],
+							"out": [
+								2188,
+								-1138.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2256,
+								-1111.5
+							],
+							"in": [
+								2210,
+								-1134.5
+							],
+							"out": [
+								2334,
+								-1073.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2482,
+								-877.5
+							],
+							"in": [
+								2417,
+								-986.5
+							],
+							"out": [
+								2491,
+								-862.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2528,
+								-935.5
+							],
+							"in": [
+								2497,
+								-871.5
+							],
+							"out": [
+								2573,
+								-1031.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2688,
+								-1113.5
+							],
+							"in": [
+								2622,
+								-1085.5
+							],
+							"out": [
+								2765,
+								-1146.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2967,
+								-1093.5
+							],
+							"in": [
+								2879,
+								-1138.5
+							],
+							"out": [
+								3002,
+								-1076.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3047,
+								-1047.5
+							],
+							"in": [
+								3038,
+								-1055.5
+							],
+							"out": [
+								3055,
+								-1039.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								3067,
+								-1033.5
+							],
+							"in": [
+								3065,
+								-1033.5
+							],
+							"out": [
+								3070,
+								-1033.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3123,
+								-1082.5
+							],
+							"in": [
+								3095,
+								-1055.5
+							],
+							"out": [
+								3190,
+								-1146.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3364,
+								-1173.5
+							],
+							"in": [
+								3261,
+								-1173.5
+							],
+							"out": [
+								3456,
+								-1172.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3618,
+								-1081.5
+							],
+							"in": [
+								3523,
+								-1148.5
+							],
+							"out": [
+								3676,
+								-1038.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3848,
+								-856.5
+							],
+							"in": [
+								3786,
+								-932.5
+							],
+							"out": [
+								3863,
+								-838.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								3880,
+								-823.5
+							],
+							"in": [
+								3877,
+								-823.5
+							],
+							"out": [
+								3883,
+								-823.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3917,
+								-884.5
+							],
+							"in": [
+								3899,
+								-851.5
+							],
+							"out": [
+								3964,
+								-972.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4138,
+								-1113.5
+							],
+							"in": [
+								4073,
+								-1085.5
+							],
+							"out": [
+								4242,
+								-1158.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4499,
+								-1031.5
+							],
+							"in": [
+								4380,
+								-1127.5
+							],
+							"out": [
+								4499,
+								-1031.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								4558,
+								-984.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4614,
+								-1029.5
+							],
+							"in": [
+								4614,
+								-1029.5
+							],
+							"out": [
+								4726,
+								-1120.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								4996,
+								-1155.5
+							],
+							"in": [
+								4830,
+								-1155.5
+							],
+							"out": [
+								5096,
+								-1155.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5196,
+								-1127.5
+							],
+							"in": [
+								5122,
+								-1152.5
+							],
+							"out": [
+								5244,
+								-1111.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5352,
+								-1051.5
+							],
+							"in": [
+								5311,
+								-1078.5
+							],
+							"out": [
+								5425,
+								-1002.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5609,
+								-796.5
+							],
+							"in": [
+								5558,
+								-870.5
+							],
+							"out": [
+								5664,
+								-717.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5587,
+								-618.5
+							],
+							"in": [
+								5653,
+								-633.5
+							],
+							"out": [
+								5544,
+								-609.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5451,
+								-710.5
+							],
+							"in": [
+								5511,
+								-632.5
+							],
+							"out": [
+								5363,
+								-827.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5192,
+								-926.5
+							],
+							"in": [
+								5288,
+								-889.5
+							],
+							"out": [
+								5120,
+								-953.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4926,
+								-926.5
+							],
+							"in": [
+								4987,
+								-953.5
+							],
+							"out": [
+								4869,
+								-901.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4799,
+								-820.5
+							],
+							"in": [
+								4820,
+								-859.5
+							],
+							"out": [
+								4781,
+								-784.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4901,
+								-710.5
+							],
+							"in": [
+								4770,
+								-796.5
+							],
+							"out": [
+								5054,
+								-610.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5247,
+								-314.5
+							],
+							"in": [
+								5197,
+								-446.5
+							],
+							"out": [
+								5273,
+								-244.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5242,
+								-60.5
+							],
+							"in": [
+								5271,
+								-119.5
+							],
+							"out": [
+								5170,
+								85.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4801,
+								32.5
+							],
+							"in": [
+								4979,
+								126.5
+							],
+							"out": [
+								4693,
+								-23.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4520,
+								-290.5
+							],
+							"in": [
+								4581,
+								-152.5
+							],
+							"out": [
+								4468,
+								-408.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4452,
+								-608.5
+							],
+							"in": [
+								4453,
+								-481.5
+							],
+							"out": [
+								4451,
+								-674.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4459,
+								-774.5
+							],
+							"in": [
+								4455,
+								-749.5
+							],
+							"out": [
+								4459,
+								-774.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								4467,
+								-819.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4410,
+								-861.5
+							],
+							"in": [
+								4410,
+								-861.5
+							],
+							"out": [
+								4363,
+								-896.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								4307,
+								-903.5
+							],
+							"in": [
+								4346,
+								-903.5
+							],
+							"out": [
+								4279,
+								-903.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4228,
+								-883.5
+							],
+							"in": [
+								4248,
+								-895.5
+							],
+							"out": [
+								4171,
+								-848.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4080,
+								-599.5
+							],
+							"in": [
+								4116,
+								-743.5
+							],
+							"out": [
+								4080,
+								-599.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								4064,
+								-535.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4149,
+								-366.5
+							],
+							"in": [
+								4149,
+								-366.5
+							],
+							"out": [
+								4295,
+								-76.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4434,
+								346.5
+							],
+							"in": [
+								4383,
+								144.5
+							],
+							"out": [
+								4456,
+								436.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4461,
+								601.5
+							],
+							"in": [
+								4460,
+								473.5
+							],
+							"out": [
+								4461,
+								773.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4377,
+								889.5
+							],
+							"in": [
+								4451,
+								809.5
+							],
+							"out": [
+								4301,
+								972.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4033,
+								932.5
+							],
+							"in": [
+								4152,
+								991.5
+							],
+							"out": [
+								3839,
+								838.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3748,
+								166.5
+							],
+							"in": [
+								3739,
+								569.5
+							],
+							"out": [
+								3748,
+								166.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								3751,
+								0.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3701,
+								25.5
+							],
+							"in": [
+								3701,
+								25.5
+							],
+							"out": [
+								3631,
+								62.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3441,
+								22.5
+							],
+							"in": [
+								3526,
+								61.5
+							],
+							"out": [
+								3251,
+								-63.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3035,
+								-558.5
+							],
+							"in": [
+								3099,
+								-280.5
+							],
+							"out": [
+								3029,
+								-585.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3017,
+								-723.5
+							],
+							"in": [
+								3021,
+								-660.5
+							],
+							"out": [
+								3017,
+								-723.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								3011,
+								-837.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2968,
+								-870.5
+							],
+							"in": [
+								2968,
+								-870.5
+							],
+							"out": [
+								2937,
+								-894.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								2887,
+								-903.5
+							],
+							"in": [
+								2914,
+								-903.5
+							],
+							"out": [
+								2807,
+								-903.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2769,
+								-597.5
+							],
+							"in": [
+								2777,
+								-826.5
+							],
+							"out": [
+								2763,
+								-423.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2844,
+								-248.5
+							],
+							"in": [
+								2763,
+								-420.5
+							],
+							"out": [
+								2880,
+								-172.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								2900,
+								-93.5
+							],
+							"in": [
+								2900,
+								-115.5
+							],
+							"out": [
+								2900,
+								-19.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2778,
+								40.5
+							],
+							"in": [
+								2844,
+								41.5
+							],
+							"out": [
+								2723,
+								38.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2640,
+								-44.5
+							],
+							"in": [
+								2683,
+								14.5
+							],
+							"out": [
+								2640,
+								-44.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								2603,
+								-95.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2579,
+								-50.5
+							],
+							"in": [
+								2579,
+								-50.5
+							],
+							"out": [
+								2540,
+								28.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								2336,
+								86.5
+							],
+							"in": [
+								2436,
+								86.5
+							],
+							"out": [
+								2079,
+								86.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1796,
+								-707.5
+							],
+							"in": [
+								1796,
+								-328.5
+							],
+							"out": [
+								1796,
+								-707.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								1796,
+								-779.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1744,
+								-830.5
+							],
+							"in": [
+								1744,
+								-830.5
+							],
+							"out": [
+								1678,
+								-893.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								1601,
+								-903.5
+							],
+							"in": [
+								1659,
+								-903.5
+							],
+							"out": [
+								1561,
+								-903.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1519,
+								-868.5
+							],
+							"in": [
+								1549,
+								-898.5
+							],
+							"out": [
+								1519,
+								-868.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								1483,
+								-832.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1489,
+								-725.5
+							],
+							"in": [
+								1489,
+								-725.5
+							],
+							"out": [
+								1492,
+								-652.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1530,
+								-463.5
+							],
+							"in": [
+								1505,
+								-569.5
+							],
+							"out": [
+								1590,
+								-211.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1499,
+								-22.5
+							],
+							"in": [
+								1582,
+								-98.5
+							],
+							"out": [
+								1446,
+								27.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								1320,
+								41.5
+							],
+							"in": [
+								1407,
+								41.5
+							],
+							"out": [
+								1247,
+								41.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1161,
+								2.5
+							],
+							"in": [
+								1232,
+								37.5
+							],
+							"out": [
+								1033,
+								-60.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								797,
+								-400.5
+							],
+							"in": [
+								887,
+								-222.5
+							],
+							"out": [
+								785,
+								-424.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								772,
+								-443.5
+							],
+							"in": [
+								774,
+								-443.5
+							],
+							"out": [
+								771,
+								-443.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								770,
+								-270.5
+							],
+							"in": [
+								770,
+								-365.5
+							],
+							"out": [
+								771,
+								-91.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								723,
+								-0.5
+							],
+							"in": [
+								766,
+								-62.5
+							],
+							"out": [
+								666,
+								82.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								466,
+								8.5
+							],
+							"in": [
+								504,
+								88.5
+							],
+							"out": [
+								458,
+								-8.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								445,
+								-218.5
+							],
+							"in": [
+								450,
+								-92.5
+							],
+							"out": [
+								440,
+								-328.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								426,
+								-537.5
+							],
+							"in": [
+								432,
+								-471.5
+							],
+							"out": [
+								426,
+								-537.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								416,
+								-656.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								365,
+								-718.5
+							],
+							"in": [
+								365,
+								-718.5
+							],
+							"out": [
+								310,
+								-786.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								183,
+								-839.5
+							],
+							"in": [
+								262,
+								-818.5
+							],
+							"out": [
+								136,
+								-852.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								36,
+								-849.5
+							],
+							"in": [
+								36,
+								-858.5
+							],
+							"out": [
+								36,
+								-847.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								61,
+								-790.5
+							],
+							"in": [
+								47,
+								-821.5
+							],
+							"out": [
+								97,
+								-712.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								116,
+								-500.5
+							],
+							"in": [
+								116,
+								-614.5
+							],
+							"out": [
+								116,
+								-188.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-252,
+								66.5
+							],
+							"in": [
+								-26,
+								30.5
+							],
+							"out": [
+								-450,
+								98.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-685,
+								-218.5
+							],
+							"in": [
+								-637,
+								-24.5
+							],
+							"out": [
+								-693,
+								-251.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-735,
+								-310.5
+							],
+							"in": [
+								-710,
+								-283.5
+							],
+							"out": [
+								-821,
+								-405.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-873,
+								-725.5
+							],
+							"in": [
+								-878,
+								-574.5
+							],
+							"out": [
+								-870,
+								-812.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-952,
+								-873.5
+							],
+							"in": [
+								-875,
+								-822.5
+							],
+							"out": [
+								-1020,
+								-918.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1109,
+								-862.5
+							],
+							"in": [
+								-1083,
+								-914.5
+							],
+							"out": [
+								-1129,
+								-825.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1109,
+								-538.5
+							],
+							"in": [
+								-1129,
+								-656.5
+							],
+							"out": [
+								-1083,
+								-383.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1098,
+								-181.5
+							],
+							"in": [
+								-1079,
+								-246.5
+							],
+							"out": [
+								-1146,
+								-16.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1456,
+								-16.5
+							],
+							"in": [
+								-1305,
+								57.5
+							],
+							"out": [
+								-1516,
+								-45.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1658,
+								-214.5
+							],
+							"in": [
+								-1599,
+								-127.5
+							],
+							"out": [
+								-1658,
+								-214.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-1691,
+								-263.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1698,
+								-201.5
+							],
+							"in": [
+								-1698,
+								-201.5
+							],
+							"out": [
+								-1717,
+								-16.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-1940,
+								76.5
+							],
+							"in": [
+								-1797,
+								76.5
+							],
+							"out": [
+								-2076,
+								76.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2360,
+								-214.5
+							],
+							"in": [
+								-2232,
+								-31.5
+							],
+							"out": [
+								-2391,
+								-257.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-2418,
+								-293.5
+							],
+							"in": [
+								-2417,
+								-293.5
+							],
+							"out": [
+								-2419,
+								-293.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2412,
+								-210.5
+							],
+							"in": [
+								-2416,
+								-256.5
+							],
+							"out": [
+								-2401,
+								-99.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2449,
+								25.5
+							],
+							"in": [
+								-2415,
+								-7.5
+							],
+							"out": [
+								-2470,
+								47.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2547,
+								54.5
+							],
+							"in": [
+								-2485,
+								51.5
+							],
+							"out": [
+								-2638,
+								58.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2710,
+								-19.5
+							],
+							"in": [
+								-2680,
+								39.5
+							],
+							"out": [
+								-2729,
+								-58.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2737,
+								-397.5
+							],
+							"in": [
+								-2731,
+								-82.5
+							],
+							"out": [
+								-2737,
+								-397.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-2743,
+								-733.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2775,
+								-775.5
+							],
+							"in": [
+								-2775,
+								-775.5
+							],
+							"out": [
+								-2820,
+								-830.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2982,
+								-923.5
+							],
+							"in": [
+								-2912,
+								-897.5
+							],
+							"out": [
+								-3049,
+								-949.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3236,
+								-933.5
+							],
+							"in": [
+								-3183,
+								-954.5
+							],
+							"out": [
+								-3295,
+								-909.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3372,
+								-825.5
+							],
+							"in": [
+								-3348,
+								-866.5
+							],
+							"out": [
+								-3372,
+								-825.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-3394,
+								-785.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3338,
+								-753.5
+							],
+							"in": [
+								-3338,
+								-753.5
+							],
+							"out": [
+								-3221,
+								-685.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2995,
+								-440.5
+							],
+							"in": [
+								-3067,
+								-545.5
+							],
+							"out": [
+								-2931,
+								-346.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-2910,
+								-198.5
+							],
+							"in": [
+								-2910,
+								-286.5
+							],
+							"out": [
+								-2910,
+								-69.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3054,
+								55.5
+							],
+							"in": [
+								-2958,
+								14.5
+							],
+							"out": [
+								-3263,
+								145.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3644,
+								-267.5
+							],
+							"in": [
+								-3510,
+								9.5
+							],
+							"out": [
+								-3721,
+								-427.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3720,
+								-752.5
+							],
+							"in": [
+								-3749,
+								-606.5
+							],
+							"out": [
+								-3707,
+								-817.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3715,
+								-849.5
+							],
+							"in": [
+								-3706,
+								-838.5
+							],
+							"out": [
+								-3740,
+								-879.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3923,
+								-949.5
+							],
+							"in": [
+								-3853,
+								-933.5
+							],
+							"out": [
+								-4051,
+								-978.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4383,
+								-819.5
+							],
+							"in": [
+								-4148,
+								-950.5
+							],
+							"out": [
+								-4383,
+								-819.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-4483,
+								-762.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4468,
+								-720.5
+							],
+							"in": [
+								-4468,
+								-720.5
+							],
+							"out": [
+								-4421,
+								-590.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4438,
+								1.5
+							],
+							"in": [
+								-4413,
+								-404.5
+							],
+							"out": [
+								-4472,
+								544.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-4423,
+								792.5
+							],
+							"in": [
+								-4470,
+								667.5
+							],
+							"out": [
+								-4376,
+								917.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4170,
+								983.5
+							],
+							"in": [
+								-4274,
+								994.5
+							],
+							"out": [
+								-4074,
+								973.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-4022,
+								851.5
+							],
+							"in": [
+								-4022,
+								927.5
+							],
+							"out": [
+								-4022,
+								808.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4106,
+								708.5
+							],
+							"in": [
+								-4034,
+								787.5
+							],
+							"out": [
+								-4140,
+								671.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4182,
+								606.5
+							],
+							"in": [
+								-4173,
+								625.5
+							],
+							"out": [
+								-4225,
+								504.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4017,
+								366.5
+							],
+							"in": [
+								-4130,
+								366.5
+							],
+							"out": [
+								-3869,
+								367.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-3724,
+								779.5
+							],
+							"in": [
+								-3724,
+								572.5
+							],
+							"out": [
+								-3724,
+								1060.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4274,
+								1215.5
+							],
+							"in": [
+								-3962,
+								1248.5
+							],
+							"out": [
+								-4274,
+								1215.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						3473.888671875,
+						672.0555419921875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								71.5,
+								428.5
+							],
+							"in": [
+								71.5,
+								428.5
+							],
+							"out": [
+								97.5,
+								405.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								96.5,
+								300.5
+							],
+							"in": [
+								98.5,
+								402.5
+							],
+							"out": [
+								93.5,
+								99.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-67.5,
+								-417.5
+							],
+							"in": [
+								26.5,
+								-195.5
+							],
+							"out": [
+								-67.5,
+								-417.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-82.5,
+								-451.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-88.5,
+								-422.5
+							],
+							"in": [
+								-88.5,
+								-422.5
+							],
+							"out": [
+								-92.5,
+								-406.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-96.5,
+								-128.5
+							],
+							"in": [
+								-95.5,
+								-273.5
+							],
+							"out": [
+								-97.5,
+								153.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-45.5,
+								342.5
+							],
+							"in": [
+								-90.5,
+								222.5
+							],
+							"out": [
+								-24.5,
+								398.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								34.5,
+								451.5
+							],
+							"in": [
+								14.5,
+								451.5
+							],
+							"out": [
+								39.5,
+								451.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								71.5,
+								428.5
+							],
+							"in": [
+								56.5,
+								441.5
+							],
+							"out": [
+								71.5,
+								428.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						-903.611328125,
+						-19.4444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-14,
+								312
+							],
+							"in": [
+								-14,
+								312
+							],
+							"out": [
+								44,
+								285
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								90,
+								-27
+							],
+							"in": [
+								81,
+								165
+							],
+							"out": [
+								96,
+								-158
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								63,
+								-312
+							],
+							"in": [
+								82,
+								-300
+							],
+							"out": [
+								52,
+								-319
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-56,
+								-180
+							],
+							"in": [
+								-15,
+								-244
+							],
+							"out": [
+								-159,
+								-18
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-90,
+								297
+							],
+							"in": [
+								-175,
+								212
+							],
+							"out": [
+								-61,
+								326
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-14,
+								312
+							],
+							"in": [
+								-49,
+								328
+							],
+							"out": [
+								-14,
+								312
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						1653.388671875,
+						-125.4444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								146,
+								404
+							],
+							"in": [
+								146,
+								404
+							],
+							"out": [
+								165,
+								381
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								137,
+								190
+							],
+							"in": [
+								161,
+								286
+							],
+							"out": [
+								112,
+								92
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								130,
+								-14
+							],
+							"in": [
+								110,
+								17
+							],
+							"out": [
+								144,
+								-34
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								116,
+								-104
+							],
+							"in": [
+								142,
+								-43
+							],
+							"out": [
+								74,
+								-204
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-50,
+								-396
+							],
+							"in": [
+								-11,
+								-354
+							],
+							"out": [
+								-85,
+								-435
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-146,
+								-404
+							],
+							"in": [
+								-109,
+								-437
+							],
+							"out": [
+								-207,
+								-350
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-108,
+								180
+							],
+							"in": [
+								-186,
+								-24
+							],
+							"out": [
+								-75,
+								268
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								35,
+								396
+							],
+							"in": [
+								-10,
+								367
+							],
+							"out": [
+								74,
+								422
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								146,
+								404
+							],
+							"in": [
+								128,
+								426
+							],
+							"out": [
+								146,
+								404
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						-3933.111328125,
+						37.0555419921875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								93.5,
+								215.5
+							],
+							"in": [
+								93.5,
+								215.5
+							],
+							"out": [
+								112.5,
+								196.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								110.5,
+								112.5
+							],
+							"in": [
+								114.5,
+								185.5
+							],
+							"out": [
+								107.5,
+								55.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								82.5,
+								-18.5
+							],
+							"in": [
+								98.5,
+								16.5
+							],
+							"out": [
+								58.5,
+								-69.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-86.5,
+								-202.5
+							],
+							"in": [
+								-42.5,
+								-179.5
+							],
+							"out": [
+								-86.5,
+								-202.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-110.5,
+								-215.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-103.5,
+								-157.5
+							],
+							"in": [
+								-103.5,
+								-157.5
+							],
+							"out": [
+								-85.5,
+								-12.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								25.5,
+								209.5
+							],
+							"in": [
+								-27.5,
+								152.5
+							],
+							"out": [
+								56.5,
+								242.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								93.5,
+								215.5
+							],
+							"in": [
+								66.5,
+								242.5
+							],
+							"out": [
+								93.5,
+								215.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						4250.388671875,
+						44.5555419921875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								75,
+								221
+							],
+							"in": [
+								75,
+								221
+							],
+							"out": [
+								96,
+								208
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								109,
+								127
+							],
+							"in": [
+								109,
+								170
+							],
+							"out": [
+								109,
+								15
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-51,
+								-178
+							],
+							"in": [
+								48,
+								-100
+							],
+							"out": [
+								-51,
+								-178
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-106,
+								-221
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-109,
+								-190
+							],
+							"in": [
+								-109,
+								-190
+							],
+							"out": [
+								-118,
+								-102
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								13,
+								194
+							],
+							"in": [
+								-43,
+								135
+							],
+							"out": [
+								47,
+								230
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								75,
+								221
+							],
+							"in": [
+								56,
+								234
+							],
+							"out": [
+								75,
+								221
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						2940.888671875,
+						-159.9444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								144.5,
+								397.5
+							],
+							"in": [
+								144.5,
+								397.5
+							],
+							"out": [
+								183.5,
+								378.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								163.5,
+								313.5
+							],
+							"in": [
+								182.5,
+								384.5
+							],
+							"out": [
+								134.5,
+								205.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								209.5,
+								56.5
+							],
+							"in": [
+								143.5,
+								153.5
+							],
+							"out": [
+								225.5,
+								33.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								238.5,
+								-1.5
+							],
+							"in": [
+								238.5,
+								7.5
+							],
+							"out": [
+								238.5,
+								-38.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-33.5,
+								-357.5
+							],
+							"in": [
+								33.5,
+								-306.5
+							],
+							"out": [
+								-87.5,
+								-398.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-147.5,
+								-406.5
+							],
+							"in": [
+								-105.5,
+								-405.5
+							],
+							"out": [
+								-222.5,
+								-406.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-238.5,
+								-189.5
+							],
+							"in": [
+								-247.5,
+								-346.5
+							],
+							"out": [
+								-219.5,
+								107.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								28.5,
+								406.5
+							],
+							"in": [
+								-107.5,
+								358.5
+							],
+							"out": [
+								58.5,
+								417.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								144.5,
+								397.5
+							],
+							"in": [
+								111.5,
+								413.5
+							],
+							"out": [
+								144.5,
+								397.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						-1130.611328125,
+						-383.9444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-108,
+								139.5
+							],
+							"in": [
+								-108,
+								139.5
+							],
+							"out": [
+								-61,
+								57.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								91,
+								-85.5
+							],
+							"in": [
+								9,
+								-21.5
+							],
+							"out": [
+								168,
+								-146.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								150,
+								-164.5
+							],
+							"in": [
+								170,
+								-147.5
+							],
+							"out": [
+								115,
+								-193.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3,
+								-174.5
+							],
+							"in": [
+								49,
+								-197.5
+							],
+							"out": [
+								-78,
+								-141.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-121,
+								25.5
+							],
+							"in": [
+								-148,
+								-23.5
+							],
+							"out": [
+								-103,
+								59.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-130,
+								142.5
+							],
+							"in": [
+								-107,
+								122.5
+							],
+							"out": [
+								-141,
+								152.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-150,
+								174.5
+							],
+							"in": [
+								-150,
+								166.5
+							],
+							"out": [
+								-150,
+								199.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-108,
+								139.5
+							],
+							"in": [
+								-135,
+								187.5
+							],
+							"out": [
+								-108,
+								139.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 27,
+					"translation": [
+						-5714.611328125,
+						-461.9444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-13,
+								110.5
+							],
+							"in": [
+								-13,
+								110.5
+							],
+							"out": [
+								56,
+								92.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								194,
+								25.5
+							],
+							"in": [
+								194,
+								35.5
+							],
+							"out": [
+								194,
+								4.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								26,
+								-104.5
+							],
+							"in": [
+								79,
+								-85.5
+							],
+							"out": [
+								-44,
+								-130.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-194,
+								-110.5
+							],
+							"in": [
+								-149,
+								-133.5
+							],
+							"out": [
+								-291,
+								-60.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-194,
+								104.5
+							],
+							"in": [
+								-290,
+								56.5
+							],
+							"out": [
+								-143,
+								129.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-13,
+								110.5
+							],
+							"in": [
+								-92,
+								131.5
+							],
+							"out": [
+								-13,
+								110.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Node",
+					"parent": 27,
+					"isActive": true,
+					"source": 10,
+					"maskType": 0,
+					"type": "mask"
+				},
+				{
+					"name": "TitleSecond Layer",
+					"parent": 27,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 14,
+					"type": "effectRenderer"
+				},
+				{
+					"name": "TitleFirst",
+					"parent": 26,
+					"translation": [
+						444.552490234375,
+						-290.41815185546875
+					],
+					"rotation": 0,
+					"scale": [
+						0.07999999821186066,
+						-0.07999999821186066
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [
+						{
+							"node": 13,
+							"intersect": true
+						}
+					],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 12,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Color",
+					"parent": 40,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"fillRule": 1,
+					"type": "colorFill"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						-636.611328125,
+						397.0555419921875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-4274,
+								1215.5
+							],
+							"in": [
+								-4274,
+								1215.5
+							],
+							"out": [
+								-4553,
+								1185.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4814,
+								652.5
+							],
+							"in": [
+								-4777,
+								952.5
+							],
+							"out": [
+								-4825,
+								564.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4794,
+								91.5
+							],
+							"in": [
+								-4814,
+								261.5
+							],
+							"out": [
+								-4773,
+								-85.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4773,
+								-497.5
+							],
+							"in": [
+								-4762,
+								-406.5
+							],
+							"out": [
+								-4779,
+								-546.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-4787,
+								-589.5
+							],
+							"in": [
+								-4785,
+								-587.5
+							],
+							"out": [
+								-4789,
+								-591.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4879,
+								-562.5
+							],
+							"in": [
+								-4830,
+								-579.5
+							],
+							"out": [
+								-5019,
+								-515.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5238,
+								-511.5
+							],
+							"in": [
+								-5142,
+								-497.5
+							],
+							"out": [
+								-5385,
+								-533.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5580,
+								-735.5
+							],
+							"in": [
+								-5515,
+								-618.5
+							],
+							"out": [
+								-5606,
+								-783.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-5609,
+								-878.5
+							],
+							"in": [
+								-5609,
+								-797.5
+							],
+							"out": [
+								-5609,
+								-984.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5524,
+								-1094.5
+							],
+							"in": [
+								-5593,
+								-1024.5
+							],
+							"out": [
+								-5442,
+								-1176.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-5165,
+								-1215.5
+							],
+							"in": [
+								-5324,
+								-1216.5
+							],
+							"out": [
+								-4983,
+								-1214.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4686,
+								-1038.5
+							],
+							"in": [
+								-4811,
+								-1151.5
+							],
+							"out": [
+								-4659,
+								-1013.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-4630,
+								-993.5
+							],
+							"in": [
+								-4633,
+								-993.5
+							],
+							"out": [
+								-4627,
+								-993.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4552,
+								-1040.5
+							],
+							"in": [
+								-4592,
+								-1014.5
+							],
+							"out": [
+								-4447,
+								-1106.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4234,
+								-1203.5
+							],
+							"in": [
+								-4286,
+								-1189.5
+							],
+							"out": [
+								-4025,
+								-1259.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3669,
+								-1070.5
+							],
+							"in": [
+								-3856,
+								-1219.5
+							],
+							"out": [
+								-3669,
+								-1070.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-3588,
+								-1006.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3551,
+								-1038.5
+							],
+							"in": [
+								-3551,
+								-1038.5
+							],
+							"out": [
+								-3397,
+								-1171.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2889,
+								-1091.5
+							],
+							"in": [
+								-3098,
+								-1195.5
+							],
+							"out": [
+								-2867,
+								-1080.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2801,
+								-1037.5
+							],
+							"in": [
+								-2828,
+								-1055.5
+							],
+							"out": [
+								-2775,
+								-1018.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-2749,
+								-1003.5
+							],
+							"in": [
+								-2752,
+								-1003.5
+							],
+							"out": [
+								-2746,
+								-1003.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-2744,
+								-1028.5
+							],
+							"in": [
+								-2744,
+								-1014.5
+							],
+							"out": [
+								-2744,
+								-1126.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2555,
+								-1159.5
+							],
+							"in": [
+								-2636,
+								-1200.5
+							],
+							"out": [
+								-2502,
+								-1131.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2454,
+								-878.5
+							],
+							"in": [
+								-2477,
+								-1060.5
+							],
+							"out": [
+								-2433,
+								-719.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2333,
+								-483.5
+							],
+							"in": [
+								-2402,
+								-614.5
+							],
+							"out": [
+								-2248,
+								-319.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2059,
+								-207.5
+							],
+							"in": [
+								-2124,
+								-194.5
+							],
+							"out": [
+								-2005,
+								-218.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-2001,
+								-350.5
+							],
+							"in": [
+								-1999,
+								-233.5
+							],
+							"out": [
+								-2002,
+								-409.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2018,
+								-557.5
+							],
+							"in": [
+								-2010,
+								-502.5
+							],
+							"out": [
+								-2042,
+								-723.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2045,
+								-848.5
+							],
+							"in": [
+								-2044,
+								-744.5
+							],
+							"out": [
+								-2047,
+								-1009.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1911,
+								-1051.5
+							],
+							"in": [
+								-2013,
+								-1060.5
+							],
+							"out": [
+								-1798,
+								-1042.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1754,
+								-872.5
+							],
+							"in": [
+								-1766,
+								-1005.5
+							],
+							"out": [
+								-1727,
+								-572.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1429,
+								-223.5
+							],
+							"in": [
+								-1516,
+								-151.5
+							],
+							"out": [
+								-1406,
+								-242.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1440,
+								-515.5
+							],
+							"in": [
+								-1410,
+								-340.5
+							],
+							"out": [
+								-1472,
+								-705.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1437,
+								-944.5
+							],
+							"in": [
+								-1471,
+								-869.5
+							],
+							"out": [
+								-1407,
+								-1010.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1286,
+								-1100.5
+							],
+							"in": [
+								-1351,
+								-1068.5
+							],
+							"out": [
+								-1235,
+								-1125.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-1124,
+								-1128.5
+							],
+							"in": [
+								-1219,
+								-1128.5
+							],
+							"out": [
+								-1025,
+								-1128.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-953,
+								-1096.5
+							],
+							"in": [
+								-1014,
+								-1126.5
+							],
+							"out": [
+								-917,
+								-1078.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-840,
+								-1022.5
+							],
+							"in": [
+								-866,
+								-1045.5
+							],
+							"out": [
+								-840,
+								-1022.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-793,
+								-981.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-745,
+								-1026.5
+							],
+							"in": [
+								-745,
+								-1026.5
+							],
+							"out": [
+								-658,
+								-1108.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-404,
+								-1146.5
+							],
+							"in": [
+								-549,
+								-1146.5
+							],
+							"out": [
+								-308,
+								-1145.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-154,
+								-1069.5
+							],
+							"in": [
+								-231,
+								-1122.5
+							],
+							"out": [
+								-154,
+								-1069.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-109,
+								-1038.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								41,
+								-1037.5
+							],
+							"in": [
+								41,
+								-1037.5
+							],
+							"out": [
+								210,
+								-1037.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								346,
+								-969.5
+							],
+							"in": [
+								255,
+								-1026.5
+							],
+							"out": [
+								346,
+								-969.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								401,
+								-934.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								406,
+								-976.5
+							],
+							"in": [
+								406,
+								-976.5
+							],
+							"out": [
+								419,
+								-1070.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								554,
+								-1121.5
+							],
+							"in": [
+								464,
+								-1114.5
+							],
+							"out": [
+								605,
+								-1125.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								642,
+								-1100.5
+							],
+							"in": [
+								616,
+								-1122.5
+							],
+							"out": [
+								675,
+								-1072.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								751,
+								-878.5
+							],
+							"in": [
+								680,
+								-1061.5
+							],
+							"out": [
+								777,
+								-812.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								871,
+								-608.5
+							],
+							"in": [
+								831,
+								-690.5
+							],
+							"out": [
+								1000,
+								-342.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								1189,
+								-215.5
+							],
+							"in": [
+								1112,
+								-204.5
+							],
+							"out": [
+								1224,
+								-220.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1185,
+								-487.5
+							],
+							"in": [
+								1223,
+								-298.5
+							],
+							"out": [
+								1158,
+								-617.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1152,
+								-778.5
+							],
+							"in": [
+								1152,
+								-673.5
+							],
+							"out": [
+								1151,
+								-905.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1182,
+								-963.5
+							],
+							"in": [
+								1152,
+								-909.5
+							],
+							"out": [
+								1218,
+								-1028.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1353,
+								-1104.5
+							],
+							"in": [
+								1273,
+								-1072.5
+							],
+							"out": [
+								1400,
+								-1123.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1521,
+								-1127.5
+							],
+							"in": [
+								1431,
+								-1127.5
+							],
+							"out": [
+								1624,
+								-1128.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1696,
+								-1097.5
+							],
+							"in": [
+								1635,
+								-1126.5
+							],
+							"out": [
+								1732,
+								-1080.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1805,
+								-1030.5
+							],
+							"in": [
+								1781,
+								-1050.5
+							],
+							"out": [
+								1805,
+								-1030.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								1850,
+								-994.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1888,
+								-1038.5
+							],
+							"in": [
+								1888,
+								-1038.5
+							],
+							"out": [
+								1909,
+								-1062.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1984,
+								-1110.5
+							],
+							"in": [
+								1952,
+								-1094.5
+							],
+							"out": [
+								2032,
+								-1133.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								2121,
+								-1138.5
+							],
+							"in": [
+								2054,
+								-1138.5
+							],
+							"out": [
+								2188,
+								-1138.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2256,
+								-1111.5
+							],
+							"in": [
+								2210,
+								-1134.5
+							],
+							"out": [
+								2334,
+								-1073.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2482,
+								-877.5
+							],
+							"in": [
+								2417,
+								-986.5
+							],
+							"out": [
+								2491,
+								-862.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2528,
+								-935.5
+							],
+							"in": [
+								2497,
+								-871.5
+							],
+							"out": [
+								2573,
+								-1031.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2688,
+								-1113.5
+							],
+							"in": [
+								2622,
+								-1085.5
+							],
+							"out": [
+								2765,
+								-1146.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2967,
+								-1093.5
+							],
+							"in": [
+								2879,
+								-1138.5
+							],
+							"out": [
+								3002,
+								-1076.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3047,
+								-1047.5
+							],
+							"in": [
+								3038,
+								-1055.5
+							],
+							"out": [
+								3055,
+								-1039.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								3067,
+								-1033.5
+							],
+							"in": [
+								3065,
+								-1033.5
+							],
+							"out": [
+								3070,
+								-1033.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3123,
+								-1082.5
+							],
+							"in": [
+								3095,
+								-1055.5
+							],
+							"out": [
+								3190,
+								-1146.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3364,
+								-1173.5
+							],
+							"in": [
+								3261,
+								-1173.5
+							],
+							"out": [
+								3456,
+								-1172.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3618,
+								-1081.5
+							],
+							"in": [
+								3523,
+								-1148.5
+							],
+							"out": [
+								3676,
+								-1038.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3848,
+								-856.5
+							],
+							"in": [
+								3786,
+								-932.5
+							],
+							"out": [
+								3863,
+								-838.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								3880,
+								-823.5
+							],
+							"in": [
+								3877,
+								-823.5
+							],
+							"out": [
+								3883,
+								-823.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3917,
+								-884.5
+							],
+							"in": [
+								3899,
+								-851.5
+							],
+							"out": [
+								3964,
+								-972.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4138,
+								-1113.5
+							],
+							"in": [
+								4073,
+								-1085.5
+							],
+							"out": [
+								4242,
+								-1158.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4499,
+								-1031.5
+							],
+							"in": [
+								4380,
+								-1127.5
+							],
+							"out": [
+								4499,
+								-1031.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								4558,
+								-984.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4614,
+								-1029.5
+							],
+							"in": [
+								4614,
+								-1029.5
+							],
+							"out": [
+								4726,
+								-1120.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								4996,
+								-1155.5
+							],
+							"in": [
+								4830,
+								-1155.5
+							],
+							"out": [
+								5096,
+								-1155.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5196,
+								-1127.5
+							],
+							"in": [
+								5122,
+								-1152.5
+							],
+							"out": [
+								5244,
+								-1111.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5352,
+								-1051.5
+							],
+							"in": [
+								5311,
+								-1078.5
+							],
+							"out": [
+								5425,
+								-1002.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5609,
+								-796.5
+							],
+							"in": [
+								5558,
+								-870.5
+							],
+							"out": [
+								5664,
+								-717.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5587,
+								-618.5
+							],
+							"in": [
+								5653,
+								-633.5
+							],
+							"out": [
+								5544,
+								-609.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5451,
+								-710.5
+							],
+							"in": [
+								5511,
+								-632.5
+							],
+							"out": [
+								5363,
+								-827.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5192,
+								-926.5
+							],
+							"in": [
+								5288,
+								-889.5
+							],
+							"out": [
+								5120,
+								-953.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4926,
+								-926.5
+							],
+							"in": [
+								4987,
+								-953.5
+							],
+							"out": [
+								4869,
+								-901.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4799,
+								-820.5
+							],
+							"in": [
+								4820,
+								-859.5
+							],
+							"out": [
+								4781,
+								-784.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4901,
+								-710.5
+							],
+							"in": [
+								4770,
+								-796.5
+							],
+							"out": [
+								5054,
+								-610.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5247,
+								-314.5
+							],
+							"in": [
+								5197,
+								-446.5
+							],
+							"out": [
+								5273,
+								-244.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								5242,
+								-60.5
+							],
+							"in": [
+								5271,
+								-119.5
+							],
+							"out": [
+								5170,
+								85.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4801,
+								32.5
+							],
+							"in": [
+								4979,
+								126.5
+							],
+							"out": [
+								4693,
+								-23.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4520,
+								-290.5
+							],
+							"in": [
+								4581,
+								-152.5
+							],
+							"out": [
+								4468,
+								-408.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4452,
+								-608.5
+							],
+							"in": [
+								4453,
+								-481.5
+							],
+							"out": [
+								4451,
+								-674.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4459,
+								-774.5
+							],
+							"in": [
+								4455,
+								-749.5
+							],
+							"out": [
+								4459,
+								-774.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								4467,
+								-819.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4410,
+								-861.5
+							],
+							"in": [
+								4410,
+								-861.5
+							],
+							"out": [
+								4363,
+								-896.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								4307,
+								-903.5
+							],
+							"in": [
+								4346,
+								-903.5
+							],
+							"out": [
+								4279,
+								-903.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4228,
+								-883.5
+							],
+							"in": [
+								4248,
+								-895.5
+							],
+							"out": [
+								4171,
+								-848.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4080,
+								-599.5
+							],
+							"in": [
+								4116,
+								-743.5
+							],
+							"out": [
+								4080,
+								-599.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								4064,
+								-535.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4149,
+								-366.5
+							],
+							"in": [
+								4149,
+								-366.5
+							],
+							"out": [
+								4295,
+								-76.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4434,
+								346.5
+							],
+							"in": [
+								4383,
+								144.5
+							],
+							"out": [
+								4456,
+								436.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4461,
+								601.5
+							],
+							"in": [
+								4460,
+								473.5
+							],
+							"out": [
+								4461,
+								773.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4377,
+								889.5
+							],
+							"in": [
+								4451,
+								809.5
+							],
+							"out": [
+								4301,
+								972.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								4033,
+								932.5
+							],
+							"in": [
+								4152,
+								991.5
+							],
+							"out": [
+								3839,
+								838.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3748,
+								166.5
+							],
+							"in": [
+								3739,
+								569.5
+							],
+							"out": [
+								3748,
+								166.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								3751,
+								0.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3701,
+								25.5
+							],
+							"in": [
+								3701,
+								25.5
+							],
+							"out": [
+								3631,
+								62.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3441,
+								22.5
+							],
+							"in": [
+								3526,
+								61.5
+							],
+							"out": [
+								3251,
+								-63.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3035,
+								-558.5
+							],
+							"in": [
+								3099,
+								-280.5
+							],
+							"out": [
+								3029,
+								-585.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								3017,
+								-723.5
+							],
+							"in": [
+								3021,
+								-660.5
+							],
+							"out": [
+								3017,
+								-723.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								3011,
+								-837.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2968,
+								-870.5
+							],
+							"in": [
+								2968,
+								-870.5
+							],
+							"out": [
+								2937,
+								-894.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								2887,
+								-903.5
+							],
+							"in": [
+								2914,
+								-903.5
+							],
+							"out": [
+								2807,
+								-903.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2769,
+								-597.5
+							],
+							"in": [
+								2777,
+								-826.5
+							],
+							"out": [
+								2763,
+								-423.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2844,
+								-248.5
+							],
+							"in": [
+								2763,
+								-420.5
+							],
+							"out": [
+								2880,
+								-172.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								2900,
+								-93.5
+							],
+							"in": [
+								2900,
+								-115.5
+							],
+							"out": [
+								2900,
+								-19.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2778,
+								40.5
+							],
+							"in": [
+								2844,
+								41.5
+							],
+							"out": [
+								2723,
+								38.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2640,
+								-44.5
+							],
+							"in": [
+								2683,
+								14.5
+							],
+							"out": [
+								2640,
+								-44.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								2603,
+								-95.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								2579,
+								-50.5
+							],
+							"in": [
+								2579,
+								-50.5
+							],
+							"out": [
+								2540,
+								28.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								2336,
+								86.5
+							],
+							"in": [
+								2436,
+								86.5
+							],
+							"out": [
+								2079,
+								86.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1796,
+								-707.5
+							],
+							"in": [
+								1796,
+								-328.5
+							],
+							"out": [
+								1796,
+								-707.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								1796,
+								-779.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1744,
+								-830.5
+							],
+							"in": [
+								1744,
+								-830.5
+							],
+							"out": [
+								1678,
+								-893.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								1601,
+								-903.5
+							],
+							"in": [
+								1659,
+								-903.5
+							],
+							"out": [
+								1561,
+								-903.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1519,
+								-868.5
+							],
+							"in": [
+								1549,
+								-898.5
+							],
+							"out": [
+								1519,
+								-868.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								1483,
+								-832.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1489,
+								-725.5
+							],
+							"in": [
+								1489,
+								-725.5
+							],
+							"out": [
+								1492,
+								-652.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1530,
+								-463.5
+							],
+							"in": [
+								1505,
+								-569.5
+							],
+							"out": [
+								1590,
+								-211.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1499,
+								-22.5
+							],
+							"in": [
+								1582,
+								-98.5
+							],
+							"out": [
+								1446,
+								27.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								1320,
+								41.5
+							],
+							"in": [
+								1407,
+								41.5
+							],
+							"out": [
+								1247,
+								41.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								1161,
+								2.5
+							],
+							"in": [
+								1232,
+								37.5
+							],
+							"out": [
+								1033,
+								-60.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								797,
+								-400.5
+							],
+							"in": [
+								887,
+								-222.5
+							],
+							"out": [
+								785,
+								-424.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								772,
+								-443.5
+							],
+							"in": [
+								774,
+								-443.5
+							],
+							"out": [
+								771,
+								-443.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								770,
+								-270.5
+							],
+							"in": [
+								770,
+								-365.5
+							],
+							"out": [
+								771,
+								-91.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								723,
+								-0.5
+							],
+							"in": [
+								766,
+								-62.5
+							],
+							"out": [
+								666,
+								82.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								466,
+								8.5
+							],
+							"in": [
+								504,
+								88.5
+							],
+							"out": [
+								458,
+								-8.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								445,
+								-218.5
+							],
+							"in": [
+								450,
+								-92.5
+							],
+							"out": [
+								440,
+								-328.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								426,
+								-537.5
+							],
+							"in": [
+								432,
+								-471.5
+							],
+							"out": [
+								426,
+								-537.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								416,
+								-656.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								365,
+								-718.5
+							],
+							"in": [
+								365,
+								-718.5
+							],
+							"out": [
+								310,
+								-786.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								183,
+								-839.5
+							],
+							"in": [
+								262,
+								-818.5
+							],
+							"out": [
+								136,
+								-852.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								36,
+								-849.5
+							],
+							"in": [
+								36,
+								-858.5
+							],
+							"out": [
+								36,
+								-847.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								61,
+								-790.5
+							],
+							"in": [
+								47,
+								-821.5
+							],
+							"out": [
+								97,
+								-712.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								116,
+								-500.5
+							],
+							"in": [
+								116,
+								-614.5
+							],
+							"out": [
+								116,
+								-188.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-252,
+								66.5
+							],
+							"in": [
+								-26,
+								30.5
+							],
+							"out": [
+								-450,
+								98.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-685,
+								-218.5
+							],
+							"in": [
+								-637,
+								-24.5
+							],
+							"out": [
+								-693,
+								-251.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-735,
+								-310.5
+							],
+							"in": [
+								-710,
+								-283.5
+							],
+							"out": [
+								-821,
+								-405.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-873,
+								-725.5
+							],
+							"in": [
+								-878,
+								-574.5
+							],
+							"out": [
+								-870,
+								-812.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-952,
+								-873.5
+							],
+							"in": [
+								-875,
+								-822.5
+							],
+							"out": [
+								-1020,
+								-918.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1109,
+								-862.5
+							],
+							"in": [
+								-1083,
+								-914.5
+							],
+							"out": [
+								-1129,
+								-825.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1109,
+								-538.5
+							],
+							"in": [
+								-1129,
+								-656.5
+							],
+							"out": [
+								-1083,
+								-383.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1098,
+								-181.5
+							],
+							"in": [
+								-1079,
+								-246.5
+							],
+							"out": [
+								-1146,
+								-16.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1456,
+								-16.5
+							],
+							"in": [
+								-1305,
+								57.5
+							],
+							"out": [
+								-1516,
+								-45.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1658,
+								-214.5
+							],
+							"in": [
+								-1599,
+								-127.5
+							],
+							"out": [
+								-1658,
+								-214.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-1691,
+								-263.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-1698,
+								-201.5
+							],
+							"in": [
+								-1698,
+								-201.5
+							],
+							"out": [
+								-1717,
+								-16.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-1940,
+								76.5
+							],
+							"in": [
+								-1797,
+								76.5
+							],
+							"out": [
+								-2076,
+								76.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2360,
+								-214.5
+							],
+							"in": [
+								-2232,
+								-31.5
+							],
+							"out": [
+								-2391,
+								-257.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-2418,
+								-293.5
+							],
+							"in": [
+								-2417,
+								-293.5
+							],
+							"out": [
+								-2419,
+								-293.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2412,
+								-210.5
+							],
+							"in": [
+								-2416,
+								-256.5
+							],
+							"out": [
+								-2401,
+								-99.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2449,
+								25.5
+							],
+							"in": [
+								-2415,
+								-7.5
+							],
+							"out": [
+								-2470,
+								47.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2547,
+								54.5
+							],
+							"in": [
+								-2485,
+								51.5
+							],
+							"out": [
+								-2638,
+								58.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2710,
+								-19.5
+							],
+							"in": [
+								-2680,
+								39.5
+							],
+							"out": [
+								-2729,
+								-58.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2737,
+								-397.5
+							],
+							"in": [
+								-2731,
+								-82.5
+							],
+							"out": [
+								-2737,
+								-397.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-2743,
+								-733.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2775,
+								-775.5
+							],
+							"in": [
+								-2775,
+								-775.5
+							],
+							"out": [
+								-2820,
+								-830.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2982,
+								-923.5
+							],
+							"in": [
+								-2912,
+								-897.5
+							],
+							"out": [
+								-3049,
+								-949.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3236,
+								-933.5
+							],
+							"in": [
+								-3183,
+								-954.5
+							],
+							"out": [
+								-3295,
+								-909.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3372,
+								-825.5
+							],
+							"in": [
+								-3348,
+								-866.5
+							],
+							"out": [
+								-3372,
+								-825.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-3394,
+								-785.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3338,
+								-753.5
+							],
+							"in": [
+								-3338,
+								-753.5
+							],
+							"out": [
+								-3221,
+								-685.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-2995,
+								-440.5
+							],
+							"in": [
+								-3067,
+								-545.5
+							],
+							"out": [
+								-2931,
+								-346.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-2910,
+								-198.5
+							],
+							"in": [
+								-2910,
+								-286.5
+							],
+							"out": [
+								-2910,
+								-69.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3054,
+								55.5
+							],
+							"in": [
+								-2958,
+								14.5
+							],
+							"out": [
+								-3263,
+								145.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3644,
+								-267.5
+							],
+							"in": [
+								-3510,
+								9.5
+							],
+							"out": [
+								-3721,
+								-427.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3720,
+								-752.5
+							],
+							"in": [
+								-3749,
+								-606.5
+							],
+							"out": [
+								-3707,
+								-817.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3715,
+								-849.5
+							],
+							"in": [
+								-3706,
+								-838.5
+							],
+							"out": [
+								-3740,
+								-879.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3923,
+								-949.5
+							],
+							"in": [
+								-3853,
+								-933.5
+							],
+							"out": [
+								-4051,
+								-978.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4383,
+								-819.5
+							],
+							"in": [
+								-4148,
+								-950.5
+							],
+							"out": [
+								-4383,
+								-819.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-4483,
+								-762.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4468,
+								-720.5
+							],
+							"in": [
+								-4468,
+								-720.5
+							],
+							"out": [
+								-4421,
+								-590.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4438,
+								1.5
+							],
+							"in": [
+								-4413,
+								-404.5
+							],
+							"out": [
+								-4472,
+								544.5
+							]
+						},
+						{
+							"pointType": 1,
+							"translation": [
+								-4423,
+								792.5
+							],
+							"in": [
+								-4470,
+								667.5
+							],
+							"out": [
+								-4376,
+								917.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4170,
+								983.5
+							],
+							"in": [
+								-4274,
+								994.5
+							],
+							"out": [
+								-4074,
+								973.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-4022,
+								851.5
+							],
+							"in": [
+								-4022,
+								927.5
+							],
+							"out": [
+								-4022,
+								808.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4106,
+								708.5
+							],
+							"in": [
+								-4034,
+								787.5
+							],
+							"out": [
+								-4140,
+								671.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4182,
+								606.5
+							],
+							"in": [
+								-4173,
+								625.5
+							],
+							"out": [
+								-4225,
+								504.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4017,
+								366.5
+							],
+							"in": [
+								-4130,
+								366.5
+							],
+							"out": [
+								-3869,
+								367.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-3724,
+								779.5
+							],
+							"in": [
+								-3724,
+								572.5
+							],
+							"out": [
+								-3724,
+								1060.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-4274,
+								1215.5
+							],
+							"in": [
+								-3962,
+								1248.5
+							],
+							"out": [
+								-4274,
+								1215.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						3473.888671875,
+						672.0555419921875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								71.5,
+								428.5
+							],
+							"in": [
+								71.5,
+								428.5
+							],
+							"out": [
+								97.5,
+								405.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								96.5,
+								300.5
+							],
+							"in": [
+								98.5,
+								402.5
+							],
+							"out": [
+								93.5,
+								99.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-67.5,
+								-417.5
+							],
+							"in": [
+								26.5,
+								-195.5
+							],
+							"out": [
+								-67.5,
+								-417.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-82.5,
+								-451.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-88.5,
+								-422.5
+							],
+							"in": [
+								-88.5,
+								-422.5
+							],
+							"out": [
+								-92.5,
+								-406.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-96.5,
+								-128.5
+							],
+							"in": [
+								-95.5,
+								-273.5
+							],
+							"out": [
+								-97.5,
+								153.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-45.5,
+								342.5
+							],
+							"in": [
+								-90.5,
+								222.5
+							],
+							"out": [
+								-24.5,
+								398.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								34.5,
+								451.5
+							],
+							"in": [
+								14.5,
+								451.5
+							],
+							"out": [
+								39.5,
+								451.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								71.5,
+								428.5
+							],
+							"in": [
+								56.5,
+								441.5
+							],
+							"out": [
+								71.5,
+								428.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						-903.611328125,
+						-19.4444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-14,
+								312
+							],
+							"in": [
+								-14,
+								312
+							],
+							"out": [
+								44,
+								285
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								90,
+								-27
+							],
+							"in": [
+								81,
+								165
+							],
+							"out": [
+								96,
+								-158
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								63,
+								-312
+							],
+							"in": [
+								82,
+								-300
+							],
+							"out": [
+								52,
+								-319
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-56,
+								-180
+							],
+							"in": [
+								-15,
+								-244
+							],
+							"out": [
+								-159,
+								-18
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-90,
+								297
+							],
+							"in": [
+								-175,
+								212
+							],
+							"out": [
+								-61,
+								326
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-14,
+								312
+							],
+							"in": [
+								-49,
+								328
+							],
+							"out": [
+								-14,
+								312
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						1653.388671875,
+						-125.4444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								146,
+								404
+							],
+							"in": [
+								146,
+								404
+							],
+							"out": [
+								165,
+								381
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								137,
+								190
+							],
+							"in": [
+								161,
+								286
+							],
+							"out": [
+								112,
+								92
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								130,
+								-14
+							],
+							"in": [
+								110,
+								17
+							],
+							"out": [
+								144,
+								-34
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								116,
+								-104
+							],
+							"in": [
+								142,
+								-43
+							],
+							"out": [
+								74,
+								-204
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-50,
+								-396
+							],
+							"in": [
+								-11,
+								-354
+							],
+							"out": [
+								-85,
+								-435
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-146,
+								-404
+							],
+							"in": [
+								-109,
+								-437
+							],
+							"out": [
+								-207,
+								-350
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-108,
+								180
+							],
+							"in": [
+								-186,
+								-24
+							],
+							"out": [
+								-75,
+								268
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								35,
+								396
+							],
+							"in": [
+								-10,
+								367
+							],
+							"out": [
+								74,
+								422
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								146,
+								404
+							],
+							"in": [
+								128,
+								426
+							],
+							"out": [
+								146,
+								404
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						-3933.111328125,
+						37.0555419921875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								93.5,
+								215.5
+							],
+							"in": [
+								93.5,
+								215.5
+							],
+							"out": [
+								112.5,
+								196.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								110.5,
+								112.5
+							],
+							"in": [
+								114.5,
+								185.5
+							],
+							"out": [
+								107.5,
+								55.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								82.5,
+								-18.5
+							],
+							"in": [
+								98.5,
+								16.5
+							],
+							"out": [
+								58.5,
+								-69.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-86.5,
+								-202.5
+							],
+							"in": [
+								-42.5,
+								-179.5
+							],
+							"out": [
+								-86.5,
+								-202.5
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-110.5,
+								-215.5
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-103.5,
+								-157.5
+							],
+							"in": [
+								-103.5,
+								-157.5
+							],
+							"out": [
+								-85.5,
+								-12.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								25.5,
+								209.5
+							],
+							"in": [
+								-27.5,
+								152.5
+							],
+							"out": [
+								56.5,
+								242.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								93.5,
+								215.5
+							],
+							"in": [
+								66.5,
+								242.5
+							],
+							"out": [
+								93.5,
+								215.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						4250.388671875,
+						44.5555419921875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								75,
+								221
+							],
+							"in": [
+								75,
+								221
+							],
+							"out": [
+								96,
+								208
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								109,
+								127
+							],
+							"in": [
+								109,
+								170
+							],
+							"out": [
+								109,
+								15
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-51,
+								-178
+							],
+							"in": [
+								48,
+								-100
+							],
+							"out": [
+								-51,
+								-178
+							]
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								-106,
+								-221
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-109,
+								-190
+							],
+							"in": [
+								-109,
+								-190
+							],
+							"out": [
+								-118,
+								-102
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								13,
+								194
+							],
+							"in": [
+								-43,
+								135
+							],
+							"out": [
+								47,
+								230
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								75,
+								221
+							],
+							"in": [
+								56,
+								234
+							],
+							"out": [
+								75,
+								221
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						2940.888671875,
+						-159.9444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								144.5,
+								397.5
+							],
+							"in": [
+								144.5,
+								397.5
+							],
+							"out": [
+								183.5,
+								378.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								163.5,
+								313.5
+							],
+							"in": [
+								182.5,
+								384.5
+							],
+							"out": [
+								134.5,
+								205.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								209.5,
+								56.5
+							],
+							"in": [
+								143.5,
+								153.5
+							],
+							"out": [
+								225.5,
+								33.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								238.5,
+								-1.5
+							],
+							"in": [
+								238.5,
+								7.5
+							],
+							"out": [
+								238.5,
+								-38.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-33.5,
+								-357.5
+							],
+							"in": [
+								33.5,
+								-306.5
+							],
+							"out": [
+								-87.5,
+								-398.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-147.5,
+								-406.5
+							],
+							"in": [
+								-105.5,
+								-405.5
+							],
+							"out": [
+								-222.5,
+								-406.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-238.5,
+								-189.5
+							],
+							"in": [
+								-247.5,
+								-346.5
+							],
+							"out": [
+								-219.5,
+								107.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								28.5,
+								406.5
+							],
+							"in": [
+								-107.5,
+								358.5
+							],
+							"out": [
+								58.5,
+								417.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								144.5,
+								397.5
+							],
+							"in": [
+								111.5,
+								413.5
+							],
+							"out": [
+								144.5,
+								397.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						-1130.611328125,
+						-383.9444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-108,
+								139.5
+							],
+							"in": [
+								-108,
+								139.5
+							],
+							"out": [
+								-61,
+								57.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								91,
+								-85.5
+							],
+							"in": [
+								9,
+								-21.5
+							],
+							"out": [
+								168,
+								-146.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								150,
+								-164.5
+							],
+							"in": [
+								170,
+								-147.5
+							],
+							"out": [
+								115,
+								-193.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-3,
+								-174.5
+							],
+							"in": [
+								49,
+								-197.5
+							],
+							"out": [
+								-78,
+								-141.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-121,
+								25.5
+							],
+							"in": [
+								-148,
+								-23.5
+							],
+							"out": [
+								-103,
+								59.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-130,
+								142.5
+							],
+							"in": [
+								-107,
+								122.5
+							],
+							"out": [
+								-141,
+								152.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								-150,
+								174.5
+							],
+							"in": [
+								-150,
+								166.5
+							],
+							"out": [
+								-150,
+								199.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-108,
+								139.5
+							],
+							"in": [
+								-135,
+								187.5
+							],
+							"out": [
+								-108,
+								139.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Path",
+					"parent": 40,
+					"translation": [
+						-5714.611328125,
+						-461.9444580078125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 2,
+							"translation": [
+								-13,
+								110.5
+							],
+							"in": [
+								-13,
+								110.5
+							],
+							"out": [
+								56,
+								92.5
+							]
+						},
+						{
+							"pointType": 3,
+							"translation": [
+								194,
+								25.5
+							],
+							"in": [
+								194,
+								35.5
+							],
+							"out": [
+								194,
+								4.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								26,
+								-104.5
+							],
+							"in": [
+								79,
+								-85.5
+							],
+							"out": [
+								-44,
+								-130.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-194,
+								-110.5
+							],
+							"in": [
+								-149,
+								-133.5
+							],
+							"out": [
+								-291,
+								-60.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-194,
+								104.5
+							],
+							"in": [
+								-290,
+								56.5
+							],
+							"out": [
+								-143,
+								129.5
+							]
+						},
+						{
+							"pointType": 2,
+							"translation": [
+								-13,
+								110.5
+							],
+							"in": [
+								-92,
+								131.5
+							],
+							"out": [
+								-13,
+								110.5
+							]
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Node",
+					"parent": 40,
+					"isActive": true,
+					"source": 10,
+					"maskType": 1,
+					"type": "mask"
+				},
+				{
+					"name": "TitleFirst Layer",
+					"parent": 40,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 13,
+					"type": "effectRenderer"
+				}
+			],
+			"animations": [
+				{
+					"name": "ProgressBar",
+					"fps": 60,
+					"duration": 2,
+					"isLooping": false,
+					"keyed": [
+						{
+							"component": 19,
+							"opacity": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 0.7166666666666667,
+										"interpolatorType": 1,
+										"value": 1
+									}
+								]
+							]
+						},
+						{
+							"component": 22,
+							"opacity": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 0
+									},
+									{
+										"time": 0.7166666666666667,
+										"interpolatorType": 2,
+										"cubicX1": 0.13978494623655913,
+										"cubicY1": 0.5470430107526882,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 1
+									}
+								]
+							]
+						},
+						{
+							"component": 25,
+							"pathVertices": [
+								[
+									{
+										"time": 0.7833333333333333,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": [
+											-40,
+											-33.5,
+											33.5,
+											40,
+											-33.5,
+											33.5,
+											40,
+											33.5,
+											33.5,
+											-40,
+											33.5,
+											33.5
+										]
+									},
+									{
+										"time": 2,
+										"interpolatorType": 2,
+										"cubicX1": 0.42,
+										"cubicY1": 0,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": [
+											-40,
+											-33.5,
+											33.5,
+											449.9999694824219,
+											-33.514244079589844,
+											33.5,
+											449.9999694824219,
+											33.49933624267578,
+											33.5,
+											-40,
+											33.5,
+											33.5
+										]
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 2,
+					"type": "animation"
+				},
+				{
+					"name": "Title reveal",
+					"fps": 60,
+					"duration": 1.5,
+					"isLooping": false,
+					"keyed": [
+						{
+							"component": 13,
+							"posX": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": -408.566162109375
+									},
+									{
+										"time": 1.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.16129032258064516,
+										"cubicY1": 0.728494623655914,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 405.8223876953125
+									}
+								]
+							],
+							"posY": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 832.8009643554688
+									},
+									{
+										"time": 1.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.16129032258064516,
+										"cubicY1": 0.728494623655914,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 832.8009643554688
+									}
+								]
+							],
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": -0.20684597643327957
+									},
+									{
+										"time": 1.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.16129032258064516,
+										"cubicY1": 0.728494623655914,
+										"cubicX2": 0.58,
+										"cubicY2": 1,
+										"value": 0.24676007646414938
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 1.5,
+					"type": "animation"
+				},
+				{
+					"name": "Wave",
+					"fps": 60,
+					"duration": 5,
+					"isLooping": false,
+					"keyed": [
+						{
+							"component": 7,
+							"posY": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 2217.267822265625
+									},
+									{
+										"time": 4.983333333333333,
+										"interpolatorType": 1,
+										"value": -145.8354949951172
+									}
+								]
+							],
+							"posX": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": -3227.349609375
+									},
+									{
+										"time": 4.983333333333333,
+										"interpolatorType": 1,
+										"value": -3239.99462890625
+									}
+								]
+							]
+						},
+						{
+							"component": 10,
+							"posX": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": -194.277099609375
+									},
+									{
+										"time": 4.983333333333333,
+										"interpolatorType": 1,
+										"value": -3280.94384765625
+									}
+								]
+							],
+							"posY": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 1,
+										"value": 2172.466796875
+									},
+									{
+										"time": 4.983333333333333,
+										"interpolatorType": 1,
+										"value": -147.53329467773438
+									}
+								]
+							]
+						},
+						{
+							"component": 27,
+							"posX": [
+								[
+									{
+										"time": 3.316666666666667,
+										"interpolatorType": 1,
+										"value": 444.552490234375
+									}
+								]
+							],
+							"posY": [
+								[
+									{
+										"time": 3.316666666666667,
+										"interpolatorType": 1,
+										"value": -290.41815185546875
+									},
+									{
+										"time": 4.466666666666667,
+										"interpolatorType": 1,
+										"value": -395.42
+									}
+								]
+							],
+							"scaleX": [
+								[
+									{
+										"time": 3.316666666666667,
+										"interpolatorType": 1,
+										"value": 0.08
+									},
+									{
+										"time": 4.466666666666667,
+										"interpolatorType": 1,
+										"value": 0.09
+									}
+								]
+							],
+							"scaleY": [
+								[
+									{
+										"time": 3.316666666666667,
+										"interpolatorType": 1,
+										"value": -0.08
+									},
+									{
+										"time": 4.466666666666667,
+										"interpolatorType": 1,
+										"value": -0.09
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 4.983333333333333,
+					"type": "animation"
+				}
+			],
+			"type": "artboard"
+		}
+	]
+}
